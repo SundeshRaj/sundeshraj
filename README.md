@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Data Scientist with over 6 years of experience. Delivering actionable insights through data-driven solutions. My expertise includes proficiency in Python, SQL, and AWS, as well as an extensive knowledge of ML algorithms and statistical analysis.
+Data Scientist with over 7 years of experience. Delivering actionable insights through data-driven solutions. My expertise includes proficiency in Python, SQL, and AWS, as well as an extensive knowledge of ML algorithms and statistical analysis.
 
 
 ## 🌐 Socials:
